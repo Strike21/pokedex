@@ -9,6 +9,6 @@
 <img src="https://t4.rbxcdn.com/c553772dcc655c0d93aa907b4693ac22" width="24px">A spy of how it was:
 
 
-<img src="https://cdn.discordapp.com/attachments/840192863873925152/840699199297028096/pokedex.gif" width="50px">A spy of how it was:
+<img src="https://cdn.discordapp.com/attachments/840192863873925152/840699199297028096/pokedex.gif" width="50px">
 
 
