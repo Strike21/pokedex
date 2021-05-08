@@ -12,3 +12,9 @@
 ![enter image description here](https://cdn.discordapp.com/attachments/840192863873925152/840700525364510740/poke.gif)
 
 
+##
+
+<img src="https://t4.rbxcdn.com/c553772dcc655c0d93aa907b4693ac22" width="24px">The link:
+https://pokedx.joresonhu.repl.co/
+
+
