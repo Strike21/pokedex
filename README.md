@@ -18,3 +18,6 @@
 https://pokedx.joresonhu.repl.co/
 
 
+                                                   @Strike21 2021
+
+
